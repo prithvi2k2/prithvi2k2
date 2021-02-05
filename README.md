@@ -1,10 +1,6 @@
 ### Hi there 👋, I'm Prithvi!
 
-<!--
-**prithvi2k2/prithvi2k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on developing skillsets in programming and other computer science related stuff
 - 🌱 I’m currently learning to code
 - 👯 I’m looking to collaborate to open-source projects and communities
