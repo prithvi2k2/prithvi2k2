@@ -1,4 +1,4 @@
-### Hi<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wav_hello" width="30" height="30"/>there, I'm Prithvi!
+### Hi<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wav_hello" width="22" height="22"/>there, I'm Prithvi!
 
 
 - 🔭 I’m currently working on developing skillsets in programming and other computer science related stuff
