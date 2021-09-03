@@ -1,4 +1,4 @@
-## Hi<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wav_hello" width="22" height="22"/>there, I'm [Prithvi](https://prithvi2k2.github.io/)!
+## Hi<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" alt="wav_hello" width="22" height="22"/>, I'm [Prithvi](https://prithvi2k2.github.io/)!
 
 
 - #### 🔭 I’m interested in tech and computer science related stuff mostly(couldn't narrow it down to specific fields like DS/AI-ML/Blockchain/IoT etc because I'm still exploring to choose one)
